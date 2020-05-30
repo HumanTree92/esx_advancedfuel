@@ -1,6 +1,8 @@
 # About esx_advancedfuel:
 Advanced Fuel for ESX - Edited/Made by Human Tree92 ([Velociti Entertainment Customs & Wiki](http://www.velocitientertainment.com/customs/))
 
+I can not Guarantee that this will work with the Latest es_extended V2.
+
 # Helpfull Info:
 * This Fuel System works similar to esx_AdvancedFuel
 * You can Fuel Aircrafts, Boats, Cars, Bikes, Electric Vehicles
@@ -8,7 +10,7 @@ Advanced Fuel for ESX - Edited/Made by Human Tree92 ([Velociti Entertainment Cus
 
 # Requirements:
 * Required:
-  * [es_extended](https://github.com/ESX-Org/es_extended)
+  * [es_extended V1 Final](https://github.com/ESX-Org/es_extended) or [extendedmode](https://github.com/extendedmode/extendedmode)
 * Optional:
   * NONE
 
