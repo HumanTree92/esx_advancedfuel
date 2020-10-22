@@ -10,6 +10,7 @@ Advanced Fuel for ESX V1 Final or EXM - Edited/Made by Human Tree92 ([Velociti E
 * This Fuel System works similar to esx_AdvancedFuel
 * You can Fuel Aircrafts, Boats, Cars, Bikes, Electric Vehicles
 * Blacklist for Certain vehicles you don't want Fueled
+* DO NOT OPEN A SUPPORT/ISSUE TICKET. YES I KNOW THE CODE ISN'T THERE. THE SCRIPT IS STILL BEING WORKED ON. I'VE BEEN BUSY WITH OTHER THINGS.
 
 # Requirements:
 * Required:
@@ -22,6 +23,7 @@ Advanced Fuel for ESX V1 Final or EXM - Edited/Made by Human Tree92 ([Velociti E
 2) Extract the .zip or Open the .zip.
 3) Place `esx_advancedweaponshop` in your ESX Directory
 4) Add `start esx_advancedweaponshop` to your server.cfg
+5) Add `setr esx_MenuAlign "top-right"` to your server.cfg
 
 # Credits/Original Code:
 * [TanguyOrtegat](https://github.com/TanguyOrtegat)
