@@ -1,3 +1,6 @@
+# ABANDONING esx_advancedfuel
+* I will be Abandoning esx_advancedfuel. I need to focus more on getting my server ready. For the time being i recommend people to use [LegacyFuel](https://github.com/InZidiuZ/LegacyFuel) as it would have a much cleaner code then my script. When i get my Server up & running i might make a comeback to finish this.
+
 # About esx_advancedfuel:
 Advanced Fuel for ESX V1 Final or EXM - Edited/Made by Human Tree92 ([Velociti Entertainment Customs & Wiki](http://www.velocitientertainment.com/customs/))
 
